@@ -1,0 +1,88 @@
+/*_*_*_*_*_* Fonts *_*_*_*_*_*/
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+/* font-family: 'Outfit', sans-serif; */
+
+/*_*_*_*_*_* Reset *_*_*_*_*_*/
+*,
+*::after,
+*::before {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Outfit', sans-serif;
+}
+
+:root {
+    --white: hsl(0, 0%, 100%);
+    --light-gray: hsl(212, 45%, 89%);
+    --grayish-blue: hsl(220, 15%, 55%);
+    --dark-blue: hsl(218, 44%, 22%);
+}
+
+/*_*_*_*_*_* Main Styling *_*_*_*_*_*/
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    height: 100vh;
+    background-color: var(--light-gray);
+}
+
+/*** Main ***/
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--white);
+
+    width: 320px;
+    height: 497px;
+    border-radius: 10px;
+
+    text-align: center;
+}
+
+/*** QR Code ***/ 
+section.image img {
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+
+    margin: 16px 16px 24px;
+}
+
+/*** Text ***/ 
+
+section.text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section.text h1 {
+    font-weight: 700;
+    font-size: 22px;
+    width: 288px;
+    margin-bottom: 16px;
+}
+
+section.text p {
+    font-weight: 400;
+    font-size: 15px;
+    color: var(--grayish-blue);
+    width: 256px;
+}
+
+
+/*_*_*_*_*_* Footer *_*_*_*_*_*/
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
