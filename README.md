@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/CozyMeds/QR-Code-Component)
-- Live Site URL: [Add live site URL here](https://qr-code-component-five-pi.vercel.app/))
+- Solution URL: [Github](https://github.com/CozyMeds/QR-Code-Component)
+- Live Site URL: [Vercel](https://qr-code-component-five-pi.vercel.app/)
 
 ## My process
 
