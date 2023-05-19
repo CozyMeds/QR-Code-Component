@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github](https://github.com/CozyMeds/QR-Code-Component)
-- Live Site URL: [Vercel](https://qr-code-component-five-pi.vercel.app/)
+- Live Site URL: [Vercel](https://qr-code-component-onyx.vercel.app/)
 
 ## My process
 
