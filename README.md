@@ -2,16 +2,6 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
 ## Overview
 
 ### Screenshot
@@ -21,7 +11,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github](https://github.com/CozyMeds/QR-Code-Component)
-- Live Site URL: [Vercel](https://qr-code-component-onyx.vercel.app/)
+- Live Site URL: [Vercel](https://cozymeds.github.io/QR-Code-Component/)
 
 ## My process
 
